@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=trapkka997)](https://github.com/trapkka997/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=trapkka997)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **trapkka997/trapkka997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
