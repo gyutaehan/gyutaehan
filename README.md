@@ -1,16 +1,22 @@
 ###  Hi there 👋
 
 🧑‍💻(He/Him)
+
 base in Tokyo, Japan
-2019.4 ~ < />
+
+2019.4 ~ < /> 
 
 📃website 
+
 https://gyutaehan.me/
+
 📧email
+
 gyutaehan.me@gmail.com 
+
 👄language
-한국어
-日本語
+
+한국어, 日本語
 
 ---
 
