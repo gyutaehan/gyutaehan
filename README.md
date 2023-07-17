@@ -8,7 +8,7 @@ base in Tokyo, Japan
 
 📃website 
 
-https://gyutaehan.me/
+https://gyutaehan.github.io/
 
 📧email
 
